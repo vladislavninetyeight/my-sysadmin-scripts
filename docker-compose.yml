@@ -1,0 +1,5 @@
+services:
+  my-script:
+    build: .
+    image: my-script
+    container_name: my-script
